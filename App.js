@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* eslint-disable prettier/prettier */
 /**
  * Sample React Native App
@@ -111,3 +112,5 @@ const styles = StyleSheet.create({
 });
 
 export default App;
+=======
+>>>>>>> DevA
